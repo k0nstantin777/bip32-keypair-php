@@ -13,12 +13,12 @@
     }
   ],
   "require": {
-    "php-64bit": "^7.4",
+    "php-64bit": "^7.4|^8.0",
     "ext-openssl": "*",
     "ext-bcmath": "*",
     "ext-gmp": "*",
-    "comely-io/data-types": "^1.0.34",
-    "furqansiddiqui/ecdsa-php": "^0.2.0"
+    "comely-io/data-types": "dev-patch-1",
+    "furqansiddiqui/ecdsa-php": "dev-update-php",
   },
   "autoload": {
     "psr-4": {
