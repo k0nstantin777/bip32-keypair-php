@@ -18,7 +18,7 @@
     "ext-bcmath": "*",
     "ext-gmp": "*",
     "comely-io/data-types": "dev-patch-1",
-    "furqansiddiqui/ecdsa-php": "dev-update-php",
+    "furqansiddiqui/ecdsa-php": "dev-update-php"
   },
   "autoload": {
     "psr-4": {
